@@ -1,0 +1,8 @@
+jupyterlab
+yfinance 
+stable-baselines3 
+gym
+numpy==1.26.4
+pandas==1.5.3
+matplotlib
+TA-Lib # you need to have the TA-Lib already installed. (https://pypi.org/project/TA-Lib/#description)
