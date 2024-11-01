@@ -43,3 +43,4 @@ notebooks/artifacts/
 notpytest_test_time.py
 
 *.csv
+*.pickle
