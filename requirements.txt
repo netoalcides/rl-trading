@@ -6,4 +6,4 @@ gym
 numpy==1.26.4
 pandas==1.5.3
 matplotlib
-TA-Lib # you need to have the TA-Lib already installed. (https://pypi.org/project/TA-Lib/#description)
+TA-Lib==0.5.1 # you need to have the TA-Lib already installed. (https://pypi.org/project/TA-Lib/#description)
